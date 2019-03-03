@@ -8,7 +8,11 @@
   Our easy-to-use and interactive website can be found at: http://dev-cracc.pantheonsite.io/. 
   
  Developers:
+ 
  Arshiya Ansari
+ 
  Clara Na
+ 
  Malvika Kuncham
+ 
  Surbhi Singh
