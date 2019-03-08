@@ -1,0 +1,6 @@
+framework module Pods_RACC {
+  umbrella header "Pods-RACC-umbrella.h"
+
+  export *
+  module * { export * }
+}

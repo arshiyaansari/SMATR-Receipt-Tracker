@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>951823688289-fr0ffp6bbrlmj0lqd7enramq9iia0eso.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951823688289-fr0ffp6bbrlmj0lqd7enramq9iia0eso</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_yNmK3QOVUEn3zcm4LNF6sUjEuSByyI8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951823688289</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>HooHacks.RACC</string>
+	<key>PROJECT_ID</key>
+	<string>racc-01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>racc-01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951823688289:ios:68fa9341c552e882</string>
+	<key>DATABASE_URL</key>
+	<string>https://racc-01.firebaseio.com</string>
+</dict>
+</plist>
